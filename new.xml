@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<data>
 <name>Olga Vladimirovna Kontush</name>
 <age>34</age>
-<pet null="true" />
-<future desired salary>1000</future desired salary>
+<pet_null="true"/>
+<future_desired_salary>1000</future_desired_salary>
+</data>
 
